@@ -1,0 +1,17 @@
+https://github.com/jngbnss/itemServiceV2.git
+
+git init
+git remote add origin https://github.com/jngbnss/toyPjV0.git
+git add .
+git commit -m "Initial commit from IntelliJ"
+git branch -M main
+git push -u origin main
+
+git pull origin main
+
+git add .
+git commit -m "환경설정"
+git push
+
+
+
