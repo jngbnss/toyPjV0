@@ -10,7 +10,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "리포지터리는 완료 근데 컨트롤러 api가 막힌다"
+git commit -m "api는 dto활용해서"
 git push
 
 
